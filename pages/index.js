@@ -48,7 +48,7 @@ export default function Home() {
         </nav>
         <section>
           <div className="content">
-            <h1>Kai’s Portpolio</h1>
+            <h1>Kai’s Portfolio</h1>
             <h3>・名前：中尾 海（Nakao Kai）</h3>
             <h3>・出身：大阪府門真市</h3>
             <h3>・学歴：同志社大学文学部英文学科</h3>

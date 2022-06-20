@@ -19,7 +19,7 @@ class MyDocument extends Document {
   }
 }
 
-//関数はString型でないとダメ。
+//関数はString型でないといけない。
 const themeInitializerScript = `(function() {
 	${setInitialColorMode.toString()}
 	setInitialColorMode();
