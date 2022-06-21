@@ -57,7 +57,7 @@ export default function Home() {
               JavaScript, TypeScript, React, Next.jsなどフロントエンドの言語を中心に学んでいます。
             </p>
             <p>よろしくお願いします！！！</p>
-            <button className="primary-btn" href='https://twitter.com/midnightsun0307'>お問い合わせ</button>
+            <a href = "https://twitter.com/midnightsun0307">SNS</a>
           </div>
         </section>
       </div>
