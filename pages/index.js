@@ -53,11 +53,11 @@ export default function Home() {
             <h3>・出身：大阪府門真市</h3>
             <h3>・学歴：同志社大学文学部英文学科</h3>
             <h3>・趣味：ギター、カフェ巡り、英語、格闘技</h3>
-            <p>
-              JavaScript, TypeScript, React, Next.jsなどフロントエンドの言語を中心に学んでいます。
-            </p>
-            <p>よろしくお願いします！！！</p>
+            <h3>・Skills：JavaScript, TypeScript, React, Next.js, Go</h3>
+            
+            <button>
             <a href = "https://twitter.com/midnightsun0307">SNS</a>
+            </button>
           </div>
         </section>
       </div>
