@@ -58,6 +58,9 @@ export default function Home() {
             <button>
             <a href = "https://twitter.com/midnightsun0307">SNS</a>
             </button>
+            <button>
+            <a href = "https://github.com/kai-0307">SNS</a>
+            </button>
           </div>
         </section>
       </div>
